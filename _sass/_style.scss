@@ -106,7 +106,7 @@ h3, h4, h5 {
 
 .nav-header {
   padding: 33px 25px;
-  background: #2f4050
+  background: url(patterns/header-profile.png) no-repeat;
 }
 
 .nav > li.active {
@@ -169,11 +169,11 @@ h3, h4, h5 {
   transition-duration: .4s;
   border-bottom: 1px solid #e7eaec !important;
   z-index: 2030;
-  background: #f3f3f4;
+  background: #3385FF;
 }
 
 .navbar-static-top {
-  background: #f3f3f4;
+  background: #3385FF;
 }
 
 .fixed-nav #wrapper {
