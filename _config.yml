@@ -28,7 +28,8 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: icon-python
     - name: icon-c
-  desc: I am a second year computer science PhD student at Purdue University in West Lafayette, IN. I got my masters in Computer Science from the same university in May 2018. I am studying under the supervision of Prof. Petros Drineas. My area of research interest are: Machine learning, Deep learning, Computational Biology and Bioinfomatics. I am originally from Cairo, Egypt, and I did not realize how much I miss the sun except after spending a winter in West Lafayette, IN.
+  desc: bla bla bla
+  #desc: I am a second year computer science PhD student at Purdue University in West Lafayette, IN. I got my masters in Computer Science from the same university in May 2018. I am studying under the supervision of Prof. Petros Drineas. My area of research interest are: Machine learning, Deep learning, Computational Biology and Bioinfomatics. I am originally from Cairo, Egypt, and I did not realize how much I miss the sun except after spending a winter in West Lafayette, IN.
   # Describe yourself.
 
 # comment
