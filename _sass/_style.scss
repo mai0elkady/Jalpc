@@ -64,12 +64,12 @@ h3, h4, h5 {
 
 .nav.navbar-top-links > li > a {
   &:focus, &:hover {
-    background-color: transparent;
+    background-color: #2f4050;
   }
 }
 
 .navbar-default {
-  background-color: #2f4050;
+  background-color: transparent;
 }
 
 .nav > li > a i {
