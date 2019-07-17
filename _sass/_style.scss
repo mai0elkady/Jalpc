@@ -64,7 +64,7 @@ h3, h4, h5 {
 
 .nav.navbar-top-links > li > a {
   &:focus, &:hover {
-    background-color: #2f4050;
+    background-color: transparent;
   }
 }
 
@@ -106,7 +106,7 @@ h3, h4, h5 {
 
 .nav-header {
   padding: 33px 25px;
-  background: url(patterns/header-profile.png) no-repeat;
+  background: #2f4050
 }
 
 .nav > li.active {
