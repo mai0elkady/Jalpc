@@ -211,7 +211,7 @@ body.canvas-menu .nav-header {
 
 .white-bg {
   .navbar-fixed-top, .navbar-static-top {
-    background: #fff;
+    background: #3385FF;
   }
 }
 
@@ -226,12 +226,12 @@ body.canvas-menu .nav-header {
     }
     a {
       &:focus, &:hover {
-        background: #fff;
+        background: #3385FF;
         color: #3385FF;
       }
     }
     &.active {
-      background: #fff;
+      background: #3385FF;
       border: none;
       > a {
         color: #3385FF;
