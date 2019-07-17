@@ -1,0 +1,44 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Purdue University, West Lafayette, IN, US
+    i18n: company_a
+  desc:
+    detail: GPA: 3.8 Advisor: Petros Drineas
+    i18n: company_a_desc
+  date:
+    detail: Aug. 2018 - Present
+    i18n: company_a_date
+  job:
+    detail: PhD in Computer Science
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+
+- name:
+    detail: Purdue University, West Lafayette, IN, US
+    i18n: company_b
+  desc:
+    detail: GPA: 3.8 Honors: Fulbright Scholarship
+    i18n: company_b_desc
+  date:
+    detail: Aug. 2016 - May 2018
+    i18n: company_b_date
+  job:
+    detail: MS in Computer Science
+    i18n: company_b_job
+  icon: fa-plus-square
+  
+- name:
+    detail: Ain Shams University, Cairo, Egypt
+    i18n: company_b
+  desc:
+    detail: GPA: 3.58 
+    i18n: company_b_desc
+  date:
+    detail: Aug. 2007 - June 2012
+    i18n: company_b_date
+  job:
+    detail: BS in Communications System Engineering
+    i18n: company_b_job
+  icon: fa-plus-square
