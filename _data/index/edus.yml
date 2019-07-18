@@ -5,8 +5,8 @@
     i18n: company_a
   desc:
     detail: |
-            GPA 3.8
-            Adviso Petros Drineas
+ - GPA 3.8
+ - Adviso Petros Drineas
     i18n: company_a_desc
   date:
     detail: Aug. 2018 - Present
