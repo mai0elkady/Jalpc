@@ -4,7 +4,7 @@
     detail: Purdue University, West Lafayette, IN, US
     i18n: company_a
   desc:
-    detail: GPA 3.8, Advisor Petros Drineas
+    detail: "GPA 3.8\n Advisor Petros Drineas"
     i18n: company_a_desc
   date:
     detail: Aug. 2018 - Present
