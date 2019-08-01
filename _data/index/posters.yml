@@ -1,0 +1,7 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: "TeraPCA: A Fast and scalable method to study genetic variation in tera-scale genotypes"
+  i18n: jalpc
+  url: /me/files/TeraPCA_Poster.pdf
+  desc: "Presented at Gene Goloub SIAM Summer School, Aussois, France, June 2019"
