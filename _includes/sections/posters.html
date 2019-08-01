@@ -6,7 +6,7 @@
         </div>
     </div>
     <div class="row">
-        {% for project in site.data.index.posters %}
+        {% for poster in site.data.index.posters %}
             {% assign loopindex = forloop.index | modulo: 2 %}
             {% if forloop.last %}
                 {% if forloop.last == forloop.first %}
@@ -20,7 +20,7 @@
               <div class="team-member">
                   <!--<img src="{{ poster.img | prepend: site.baseurl }}" class="img-responsive img-circle img-small" alt="">-->
                   <h4>
-                  <span class="navy">{{ project.name }}</span>
+                  <span class="navy">{{ poster.name }}</span>
                   </h4>
                   <p><span data-i18n="projects.{{ project.i18n }}">{{ poster.desc }}</span></p>
                   {% if poster.url %}
