@@ -11,15 +11,13 @@
   The code was written in Python and used PyTorch for deep learning, and the training was done utilizing GPUs on Google Colab. 
   The project was then deployed as a webapp using Flask on herokuapp"
   
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+- name: Synthetic Genotype Data Simulator
+  img: /static/assets/img/landing/dna.jpg
+  desc: "As part of a team, implemented a data simulator in C/C++ that generates synthetic genotype data using
+the Pritchard-Stephens-Donnelly (PSD) model."
 
-- name: Google
+- name: Predicting Pulp Fiction Lovers
   i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+  img: /static/assets/img/landing/pulp.png
+  desc: "As part of a class Kaggle competition, tried several Machine learning approaches, and coded them in R
+and Python, to predict whether users will like the movie Pulp Fiction given their previous movie ratings."
