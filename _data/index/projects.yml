@@ -1,13 +1,16 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
+- name: Flower Species Identification
   i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
-
+  url: http://flowerclass.herokuapp.com
+  gh_user: mai0elkady
+  repo: flower_classifier
+  img: /static/assets/img/landing/flowers_small.jpg
+  desc: "Employed a DenseNet pre-trained Convolutional Neural Network model to train an image classifier to identify 102 different species of flowers. 
+  The code was written in Python and used PyTorch for deep learning, and the training was done utilizing GPUs on Google Colab. 
+  The project was then deployed as a webapp using Flask on herokuapp"
+  
 - name: Python
   i18n: cpython
   gh_user: python
