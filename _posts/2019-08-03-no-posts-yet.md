@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "No Blog Posts Yet"
+title:  "No Posts Yet"
 date:   2019-08-03
 desc: "No blog posts yet"
 keywords: "no,nothing,blog"
 categories: [HTML]
-tags: [Jalpc,Jekyll]
-icon: :earth_africa:
+tags: [Nothing,Notyet]
+icon: icon-html
 ---
 
 No Content yet, stay tuned!
