@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Python, C, C++, MATLAB, R, SQL, PHP
-percentage: 90, 80, 60, 70, 60, 50, 40
+aspects: Python, C, C++, MATLAB, R, SQL
+percentage: 95, 85, 70, 80, 60, 60
