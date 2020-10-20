@@ -12,6 +12,8 @@
   The project was then deployed as a webapp using Flask on herokuapp"
   
 - name: Synthetic Genotype Data Simulator
+  gh_user: eugeniamaria
+  repo: DataSimulator
   img: /static/assets/img/landing/dna.jpg
   desc: "As part of a team, implemented a data simulator in C/C++ that generates synthetic genotype data using
 the Pritchard-Stephens-Donnelly (PSD) model."
