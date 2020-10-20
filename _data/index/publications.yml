@@ -3,4 +3,4 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: "TeraPCA: A fast and scalable software package to study genetic variation in tera-scale genotypes"
   i18n: jalpc
-  desc: "Authors: A. Bose, V. Kalantzis, E. Kontopoulou, M. Elkady, P. Paschou, P. Drineas \nAccepted in Bioinformatics"
+  desc: "Authors: A. Bose, V. Kalantzis, E. Kontopoulou, M. Elkady, P. Paschou, P. Drineas" \n Accepted in Bioinformatics
