@@ -1,6 +1,14 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: IronHacks COVID-19 Data Science Challenge
+  i18n: jalpc
+  img: /static/assets/img/landing/ironhacks_coivd19.jpg
+  desc: "Participated and won third place in the Ironhacks COVID-19 Data Science Challenge,
+  where the task was to predict the weekly foot traffic at merchants in Indiana in order to understand the COVID-19 impact and risk. 
+  To solve this problem I used Python to train a ridge regression model that was able to obtain 
+  good results in predicting the foot traffic at various stores in Indiana."
+  
 - name: Flower Species Identification
   i18n: jalpc
   url: http://flowerclass.herokuapp.com
