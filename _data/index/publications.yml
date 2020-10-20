@@ -1,6 +1,6 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: "A. Bose, V. Kalantzis, E. Kontopoulou, M. Elkady, P. Paschou, P. Drineas,\"TeraPCA: A fast and scalable software package to study genetic variation in tera-scale genotypes\", Bioinformatics"
+- name: "TeraPCA: A fast and scalable software package to study genetic variation in tera-scale genotypes"
   i18n: jalpc
-  url: https://github.com/aritra90/TeraPCA
+  desc: "Authors: A. Bose, V. Kalantzis, E. Kontopoulou, M. Elkady, P. Paschou, P. Drineas \nAccepted in Bioinformatics"
