@@ -24,6 +24,12 @@
   name: Posters
   tpl: posters.html
   css: project
+  
+- id: publocations
+  i18n: nav.publications
+  name: Publications
+  tpl: publications.html
+  css: project
 
 - id: projects
   i18n: nav.projects
