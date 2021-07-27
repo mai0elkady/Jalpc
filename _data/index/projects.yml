@@ -4,7 +4,7 @@
 - name: Predicting user participation in Data Science Challenges
   i18n: jalpc
   url: /me/files/ACM_CI_paper.pdf
-  img: /static/assets/img/landing/ironhacks_coivd19.jpg
+  img: /static/assets/img/landing/CI.jpg
   desc: "As part of my work as a fellow at the Research Center for Open Digital Innovation (RCDOI), I analyzed 
   participants data in COVID-19 data science competitions on the Ironhacks platform to gather interesting observations, 
   and determine the important factors that best predicts whether a participant will submit or not. The results were presented at 
