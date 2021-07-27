@@ -5,3 +5,8 @@
   i18n: jalpc
   url: /me/files/TeraPCA_Poster.pdf
   desc: "Presented at Gene Goloub SIAM Summer School, Aussois, France, June 2019"
+
+- name: "Discrete Tree Flows via Tree-Structured Permutations"
+  i18n: jalpc
+  url: /me/files/DTF_Poster.pdf
+  desc: "Presented at ICML Workshop on Invertible Neural Networks, Normalizing Flows, and Explicit Likelihood Models, July 2021"
