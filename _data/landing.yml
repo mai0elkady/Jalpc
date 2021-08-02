@@ -19,18 +19,18 @@
   tpl: skills.html
   css: team
   
+- id: publications
+  i18n: nav.publications
+  name: Publications
+  tpl: publications.html
+  css: project
+  
 - id: posters
   i18n: nav.posters
   name: Posters
   tpl: posters.html
   css: project
   
-- id: publocations
-  i18n: nav.publications
-  name: Publications
-  tpl: publications.html
-  css: project
-
 - id: projects
   i18n: nav.projects
   name: Projects
