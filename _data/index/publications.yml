@@ -3,12 +3,15 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: "Discrete Tree Flows via Tree-Structured Permutations"
   i18n: jalpc
+  url: https://openreview.net/pdf?id=0PyBAWIJh8P
   desc: "Authors: Mai Elkady, Jim Lim, David I. Inouye. Accepted in: ICML Workshop on Invertible Neural Networks, Normalizing Flows, and Explicit Likelihood Models (INNF+), July 2021"
 
 - name: "Submissions to a COVID-19 Data Science Challenge: the role of skills and platform engagement"
   i18n: jalpc
+  url: https://www.dropbox.com/s/y1drngf7xlgjct3/Submissions%20to%20a%20COVID-19%20Data%20Science%20Challenge%2C%20The%20Role%20of%20Skills%20and%20Platform%20Engagement.pdf?dl=0
   desc: "Authors: Sabine Brunswicker, Mai Elkady, Feny Patel. Accepted in: ACM Collective Intelligence Conference, June 2021"
 
 - name: "TeraPCA: A fast and scalable software package to study genetic variation in tera-scale genotypes"
   i18n: jalpc
+  url: https://academic.oup.com/bioinformatics/article/35/19/3679/5430929
   desc: "Authors: A. Bose, V. Kalantzis, E. Kontopoulou, M. Elkady, P. Paschou, P. Drineas. Accepted in: Bioinformatics"
