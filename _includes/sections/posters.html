@@ -28,17 +28,13 @@
                       <!--<a target="_blank" style="width: 65px;" href="https://github.com/{{ project.gh_user }}/{{ project.repo }}/stargazers" class="btn btn-white btn-xs star"><i class="fa fa-star"></i> ...</a>&emsp;&emsp;-->
                       <!--<a target="_blank" style="width: 65px;" href="https://github.com/{{ project.gh_user }}/{{ project.repo }}/network" class="btn btn-white btn-xs fork"><i class="fa fa-code-fork"></i> ...</a>-->
                       <a target="_blank" style="width: 65px;" href="{{ poster.url }}" ><i class="fa fa-file-pdf-o"></i></a>
-                      <div style="height: 10px;"></div>
-                  </div>
-                  {% endif %}
-                  {% if poster.website %}
-                  <div>
-                      <!--<a target="_blank" style="width: 65px;" href="https://github.com/{{ project.gh_user }}/{{ project.repo }}/stargazers" class="btn btn-white btn-xs star"><i class="fa fa-star"></i> ...</a>&emsp;&emsp;-->
-                      <!--<a target="_blank" style="width: 65px;" href="https://github.com/{{ project.gh_user }}/{{ project.repo }}/network" class="btn btn-white btn-xs fork"><i class="fa fa-code-fork"></i> ...</a>-->
+                      {% if poster.website %}
                       <a target="_blank" style="width: 65px;" href="{{ poster.website }}" ><i class="fa fa-link"></i></a>
+                      {% endif %}
                       <div style="height: 10px;"></div>
                   </div>
                   {% endif %}
+                  
               </div>
           </div>
       {% endfor %}
