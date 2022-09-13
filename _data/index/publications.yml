@@ -3,6 +3,11 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: "Discrete Tree Flows via Tree-Structured Permutations"
   i18n: jalpc
+  url: https://arxiv.org/abs/2207.01744?context=cs.AI
+  desc: "Authors: Mai Elkady, Jim Lim, David I. Inouye. Accepted in: ICML, July 2022"
+
+- name: "Discrete Tree Flows via Tree-Structured Permutations"
+  i18n: jalpc
   url: https://openreview.net/pdf?id=0PyBAWIJh8P
   desc: "Authors: Mai Elkady, Jim Lim, David I. Inouye. Accepted in: ICML Workshop on Invertible Neural Networks, Normalizing Flows, and Explicit Likelihood Models (INNF+), July 2021"
 
