@@ -10,3 +10,9 @@
   i18n: jalpc
   url: /me/files/DTF_poster.pdf
   desc: "Presented at ICML Workshop on Invertible Neural Networks, Normalizing Flows, and Explicit Likelihood Models, July 2021"
+  
+  - name: "Discrete Tree Flows via Tree-Structured Permutations"
+  i18n: jalpc
+  url: /me/files/DTF_ICML_poster.pdf
+  url: https://slideslive.com/38984004/discrete-tree-flows-via-treestructured-permutations
+  desc: "Presented at ICML, Baltimore, Maryland, July 2022"
