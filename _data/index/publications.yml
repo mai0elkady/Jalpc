@@ -6,13 +6,14 @@
   url: https://arxiv.org/abs/2207.01744?context=cs.AI
   gh_user: inouye-lab
   repo: Discrete-Tree-Flows
-  website: https://slideslive.com/38984004/discrete-tree-flows-via-treestructured-permutations
+  poster: /me/files/DTF_ICML_poster.pdf
+  video: https://slideslive.com/38984004/discrete-tree-flows-via-treestructured-permutations
   desc: "Authors: Mai Elkady, Jim Lim, David I. Inouye. Accepted in: ICML, July 2022"
 
 - name: "Discrete Tree Flows via Tree-Structured Permutations"
   i18n: jalpc
   url: https://openreview.net/pdf?id=0PyBAWIJh8P
-  website: /me/files/DTF_poster.pdf
+  poster: /me/files/DTF_poster.pdf
   desc: "Authors: Mai Elkady, Jim Lim, David I. Inouye. Accepted in: ICML Workshop on Invertible Neural Networks, Normalizing Flows, and Explicit Likelihood Models (INNF+), July 2021"
 
 - name: "Submissions to a COVID-19 Data Science Challenge: the role of skills and platform engagement"
@@ -23,5 +24,7 @@
 - name: "TeraPCA: A fast and scalable software package to study genetic variation in tera-scale genotypes"
   i18n: jalpc
   url: https://academic.oup.com/bioinformatics/article/35/19/3679/5430929
-  website: /me/files/TeraPCA_Poster.pdf
+  gh_user: aritra90
+  repo: TeraPCA
+  poster: /me/files/TeraPCA_Poster.pdf
   desc: "Authors: A. Bose, V. Kalantzis, E. Kontopoulou, M. Elkady, P. Paschou, P. Drineas. Accepted in: Bioinformatics"
