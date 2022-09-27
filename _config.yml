@@ -29,7 +29,7 @@ author:  # change following line to your infomation.
     - name: icon-python
     - name: icon-c
   #desc: bla bla bla
-  desc: I am a fourth year computer science PhD student at Purdue University in West Lafayette, IN. I got my masters in Computer Science from the same university in May 2018. I am studying under the supervision of Prof. David I.Inouye and Prof. Petros Drineas. My areas of research interest are Machine learning, Deep learning, Generative Models, Normalizing flows, Computational Biology and Bioinfomatics. I am originally from Cairo, Egypt, and I did not realize how much I miss the sun except after spending a winter in West Lafayette, IN.
+  desc: I am a fifth year computer science PhD student at Purdue University in West Lafayette, IN. I got my masters in Computer Science from the same university in May 2018. I am studying under the supervision of Prof. David I.Inouye and Prof. Petros Drineas. My areas of research interest are Generative Models, Normalizing flows, Diffusion Models, Computational Biology and Bioinfomatics. I am originally from Cairo, Egypt, and I did not realize how much I miss the sun except after spending a winter in West Lafayette, IN.
   # Describe yourself.
 
 # comment
