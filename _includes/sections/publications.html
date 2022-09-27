@@ -28,11 +28,14 @@
                       <!--<a target="_blank" style="width: 65px;" href="https://github.com/{{ project.gh_user }}/{{ project.repo }}/stargazers" class="btn btn-white btn-xs star"><i class="fa fa-star"></i> ...</a>&emsp;&emsp;-->
                       <!--<a target="_blank" style="width: 65px;" href="https://github.com/{{ project.gh_user }}/{{ project.repo }}/network" class="btn btn-white btn-xs fork"><i class="fa fa-code-fork"></i> ...</a>-->
                       <a target="_blank" style="width: 65px;" href="{{ pub.url }}" ><i class="fa fa-file-pdf-o"></i></a>
-                      {% if pub.website %}
-                      <a target="_blank" style="width: 65px;" href="{{ pub.website }}" ><i class="fa fa-link"></i></a>
+                      {% if pub.poster %}
+                      <a target="_blank" style="width: 65px;" href="{{ pub.poster }}" ><i class="fa fa-file-image-o"></i></a>
                       {% endif %}
                       {% if pub.gh_user %}
-                      <a target="_blank" style="width: 65px;" href="https://github.com/{{ project.gh_user }}/{{ project.repo }}" ><i class="fa fa-github"></i></a>
+                      <a target="_blank" style="width: 65px;" href="https://github.com/{{ pub.gh_user }}/{{ pub.repo }}" ><i class="fa fa-github"></i></a>
+                      {% endif %}
+                      {% if pub.video %}
+                      <a target="_blank" style="width: 65px;" href="{{ pub.video }}" ><i class="fa fa-video-camera"></i></a>
                       {% endif %}
                       <div style="height: 10px;"></div>
                   </div>
